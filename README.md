@@ -72,3 +72,6 @@ Make sure you have GCC installed. Run the following command in your terminal:
 
 ```bash
 gcc input.c matches.c playoffs.c Points_table.c schedule.c search_module.c ShortestDistance.c teams.c -o scheduling
+
+```bash
+./scheduling
